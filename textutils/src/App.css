@@ -1,0 +1,11 @@
+#searchbox{
+    margin-left: 550px;
+}
+#BoxOne{
+    margin: 0;
+    padding: 0;
+    background-color:hsl(180, 100%, 97%);
+    text-align-last: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
